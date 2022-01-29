@@ -1,0 +1,5 @@
+T1=int(input())
+T2=int(input())
+T3=int(input())
+Avg=(T1+T2+T3)/3
+print(Avg)
