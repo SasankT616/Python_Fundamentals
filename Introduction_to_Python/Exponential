@@ -1,0 +1,4 @@
+x=int(input())
+n=int(input())
+P=x**n
+print(P)
